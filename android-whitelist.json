@@ -1097,9 +1097,15 @@
       "version": "5\\.\\+"
     },
     {
+      "expires": "2025-05-05",
       "group": "com\\.mercadolibre\\.android\\.cross_app_links",
       "name": "core",
       "version": "9\\.\\+"
+    },
+    {
+      "group": "com\\.mercadolibre\\.android\\.cross_app_links",
+      "name": "core",
+      "version": "10\\.\\+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.charts",
